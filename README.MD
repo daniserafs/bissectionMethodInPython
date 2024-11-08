@@ -17,3 +17,6 @@
     9º) etc...
     Obs: a) Agrupar os dados em uma tabela.
     b) Plotar o gráfico da função, exibindo a raíz exata, a raíz aproximada, as iterações, etc.
+
+    Mudanca boba pra testar
+    
